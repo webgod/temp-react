@@ -13,7 +13,7 @@ function App() {
         </ul>
       </nav>
       <section className="hero-section">
-        <h1 className="blog-title">The Perfect Morning Ritual</h1>
+        <h1 className="blog-title">The Perfect Morning Coffee</h1>
         <p className="blog-subtitle">Discovering the sublime pairing of Corned Beef Hash and Coffee</p>
         <img 
           src="https://images.unsplash.com/photo-1525351484163-7529414344d8?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
